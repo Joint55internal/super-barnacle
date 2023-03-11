@@ -1,6 +1,7 @@
 # super-barnacle
 Convert imput text into random letters and save it as txt file
-Usage
+
+# Usage
 
 $python3 Enen.py
 
