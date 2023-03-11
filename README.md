@@ -15,7 +15,7 @@
 </p>
 
 # Usage
-
+'''console
 $python3 Enen.py
 
 
