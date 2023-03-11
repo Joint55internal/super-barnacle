@@ -21,5 +21,5 @@ $python3 Enen.py
 ```
 Type the text that you would like to encrypt
 ```
-Enter a message to encrypt: Example
+Enter a message to encrypt: <Example>
 ```
