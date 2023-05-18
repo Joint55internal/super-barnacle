@@ -19,7 +19,8 @@ Super-barnacle converts imputed text into random letters and save it as txt file
 1. Clone the repository:
 ```console
 git clone https://github.com/Joint55internal/super-barnacle
-2. Navigate to Stucus:
+```
+2. Navigate to super-barnacle:
 ```console
 cd super-barnacle
 ```
