@@ -2,7 +2,7 @@
 <p align=center>
 
   <br>
-  <span> Convert imput text into random letters and save it as txt file 
+  <span> Convert imputed text into random letters and save it as txt file 
   <br>
 </p>
 <p align="center">
