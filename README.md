@@ -13,7 +13,7 @@
 </p> 
 
 ## Description
-Stucus is a simple chatbot-like program
+Super-barnacle converts imputed text into random letters and save it as txt file 
 
 # Installation
 1. Clone the repository:
@@ -44,6 +44,7 @@ Encrypted file saved to: encrypted_message.txt
 
 ```
 # Features
+-Super-barnacle converts imputed text into random letters and save it as txt file 
 
 # License
 
