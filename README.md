@@ -18,8 +18,7 @@ Stucus is a simple chatbot-like program
 # Installation
 1. Clone the repository:
 ```console
-git clone https://github.com/Joint55internal/Stucus.git](https://github.com/Joint55internal/super-barnacle.git
-```
+git clone https://github.com/Joint55internal/super-barnacle
 2. Navigate to Stucus:
 ```console
 cd super-barnacle
